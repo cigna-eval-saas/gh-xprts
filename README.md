@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: May 11 - 15,2020
+- Class Date: May 11 - 15, 2020
 - Facilitator: @ppremk
 
 ## Talk to Us!!
